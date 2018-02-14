@@ -6,6 +6,6 @@ def display_rainbow(colors)
   end
   
   result2 = result.slice(0..-3)
-  puts result2
+  puts ("result",result2)
   result2
 end
