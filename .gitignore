@@ -1,0 +1,4 @@
+#display_rainbow
+display_rainbow ('red', 'orange', 'yelloe', 'green, 'blue'])
+"R:red, O:orange, Y:yellow, G:green, B:blue, I:indigo
+letter = ["b", "a", "c"]
